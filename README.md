@@ -8,7 +8,7 @@ I developed this software to master the fundamentals of the Kotlin programming l
 
 
 ## Software Demo Video
-[Link to your YouTube/Zoom Video goes here]
+[https://youtu.be/rYnWewEMwKQ]
 
 ## Development Environment
 * **Language:** Kotlin 1.9.0+
@@ -28,4 +28,5 @@ I developed this software to master the fundamentals of the Kotlin programming l
 ## Future Improvements
 * **File Storage:** I plan to add a feature to save the inventory list to a CSV file so data persists after closing the app.
 * **Price Formatting:** Add logic to ensure prices always show two decimal places (e.g., $5.00 instead of $5.0).
+
 * **Search by ID:** Expand the search function to allow looking up items by their unique ID number.
